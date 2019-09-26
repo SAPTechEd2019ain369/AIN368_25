@@ -15,7 +15,7 @@
             "url": "https://sapteched2019ain369.github.io/AIN368_25/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
-		},
+		}
     ],
 	"properties": {
 		"angleMax": {
